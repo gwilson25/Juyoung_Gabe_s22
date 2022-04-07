@@ -1,0 +1,1 @@
+PS1="\033[1;31m Ethan Hoyt is \033[1;32md\033[1;31moodoo head :\033[1;37m "
